@@ -1,0 +1,27 @@
+v1.03
+
+Added -c, -s and -v options
+
+v1.04
+
+Added -k option
+
+v1.05
+
+Added -o, -p
+
+v1.06
+
+Added -i, -x
+
+v1.07
+
+Added -K
+
+v1.08
+
+Made -o explicitly require -K/-k
+
+v1.09
+
+Added -m
